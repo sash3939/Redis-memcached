@@ -31,6 +31,8 @@
 ---
 ### Решение 2. Memcached
 [memcached](https://github.com/sash3939/Redis-memcached/assets/156709540/ee9704a4-d321-4f9b-9ac1-1241aa88a64b)
+[stats](https://github.com/sash3939/Redis-memcached/assets/156709540/fa79097e-2647-4d0e-8769-bdaf85555a5c)
+
 ---
 
 ### Задание 3. Удаление по TTL в Memcached
